@@ -1,0 +1,19 @@
+{
+  "name": "express_test",
+  "version": "0.0.0",
+  "description": "express_test ============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jungledre/express_test.git"
+  },
+  "author": "",
+  "license": "'",
+  "bugs": {
+    "url": "https://github.com/jungledre/express_test/issues"
+  },
+  "homepage": "https://github.com/jungledre/express_test"
+}
